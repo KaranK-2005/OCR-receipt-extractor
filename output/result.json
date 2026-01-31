@@ -1,0 +1,14 @@
+{
+    "merchant_name": "RELIANCE",
+    "invoice_number": "INV123456",
+    "date": "28/01/2025",
+    "total_amount": 189.0,
+    "currency": "INR",
+    "line_items": [
+        {
+            "item": "Milk",
+            "quantity": 2,
+            "price": 60.0
+        }
+    ]
+}
